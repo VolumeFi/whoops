@@ -1,4 +1,4 @@
-module github.com/vizualni/whoops
+module github.com/VolumeFi/whoops
 
 go 1.18
 
